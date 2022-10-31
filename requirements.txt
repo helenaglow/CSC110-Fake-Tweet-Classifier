@@ -1,0 +1,16 @@
+# CSC110 Final Project: Pathos and the Pandemic — The Spread of Misinformation Along With COVID-19: Python libraries we used in our algorithm.
+
+# Testing and code checking
+python_ta
+
+# Creating and training classifiers
+scikit-learn
+numpy
+pandas
+tweepy
+glob
+joblib
+csv
+typing
+time
+os
